@@ -6,6 +6,7 @@ ZKU Week 1 coding assignment
 1. Explain in 2-4 sentences why SNARK requires a trusted setup while STARK doesn’t.
 
 ```
+SNARKS are non-interactive proofs.
 
 ```
 
